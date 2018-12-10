@@ -8,6 +8,9 @@
       * 8080 :(
       * etcd secrets
     * checking privs
-      * 
+      * rotate keys frequently
     * shifting left with containers
-      * 
+2. Sadly, container was only scanned by china
+
+* Again, mostly a rehash of already presented advice
+* 

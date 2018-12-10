@@ -9,10 +9,12 @@
 * [Can Your Applications Keep a Secret](CanYourApplicationsKeepASecret.md)
 * [DefenseInDepth](DefenseInDepth.md)
 * [How to Lose a Container in 10 Minutes](HowToLoseAContainerIn10Minutes.md)
+* [Kubernetes Ingress Controller for Autoscaling Application Security](KubernetesIngressControllerforAutoscalingApplicationSecurity.md)
 
 ### Docs
 * [Aqua PCI-DSS Compliance Guide](AquaPCI-DSSComplianceGuide.pdf)
 * [Securosis - Complete Enterprise Container Security Guide 2018](SecurosisCompleteEnterpriseContainerSecurityGuide2018.pdf)
+* [NIST.SP.800-190.pdf](NIST.SP.800-190.pdf)
 
 ### Things to investigate:
 * Signing images
