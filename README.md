@@ -10,6 +10,9 @@
 * [DefenseInDepth](DefenseInDepth.md)
 * [How to Lose a Container in 10 Minutes](HowToLoseAContainerIn10Minutes.md)
 
+### Docs
+* [Aqua PCI-DSS Compliance Guide](AquaPCI-DSSComplianceGuide.pdf)
+* [Securosis - Complete Enterprise Container Security Guide 2018](SecurosisCompleteEnterpriseContainerSecurityGuide2018.pdf)
 
 ### Things to investigate:
 * Signing images
