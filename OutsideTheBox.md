@@ -13,4 +13,29 @@
 4. Breaches
     * 40% had one (usually more than once)
     * everything you have is being pen tested. By you or by others? Krebbs
-    * 
+5. Typical Maturity for securiting new technologies
+
+6. Ten steps to security containers in Software Delivery Life Cycle
+    * Secure Controls
+      * user auth
+      * network sef
+      * intrustion detection
+    * Remove Known Vouln
+      * scanning
+      * harden os
+    * Automate Processes
+      * automated ocnatiner scanning
+      * signing containers
+      * secrets management
+    * Optimize Security
+      * ochestration consistency
+      * governance
+      * advanced protection
+      * trusted image program
+7. Many Security Products Claim Parts of Container Security
+
+8. Key Takeaways
+    * Containers are here to stay
+    * Apps are the biggest source of breaches (ext)
+    * Secure containers with basic steps
+    * mature your stuff
