@@ -13,5 +13,5 @@
 
 ### Things to investigate:
 * Signing images
-* https://www.google.ca/amp/s/gweb-cloudblog-publish.appspot.com/products/gcp/introducing-kaniko-build-container-images-in-kubernetes-and-google-container-builder-even-without-root-access/amp/
+* (https://www.google.ca/amp/s/gweb-cloudblog-publish.appspot.com/products/gcp/introducing-kaniko-build-container-images-in-kubernetes-and-google-container-builder-even-without-root-access/amp/)
 * 
