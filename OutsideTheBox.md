@@ -11,5 +11,6 @@
     * private -> hybrid -> public
     * 53% are hybrid with more than one cloud provider
 4. Breaches
-    * 40% had one
+    * 40% had one (usually more than once)
+    * everything you have is being pen tested. By you or by others? Krebbs
     * 
