@@ -1,4 +1,6 @@
-# KubeSec Summit
+# KubeSec Summit Notes
+
+taken quickly and badly. Spelling critisms not wlecome
 
 ## Talks
 
@@ -10,6 +12,7 @@
 * [DefenseInDepth](DefenseInDepth.md)
 * [How to Lose a Container in 10 Minutes](HowToLoseAContainerIn10Minutes.md)
 * [Kubernetes Ingress Controller for Autoscaling Application Security](KubernetesIngressControllerforAutoscalingApplicationSecurity.md)
+* [Operations after Deployment](OpsAfterDeployment.md)
 
 ### Docs
 * [Aqua PCI-DSS Compliance Guide](AquaPCI-DSSComplianceGuide.pdf)

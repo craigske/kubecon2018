@@ -19,4 +19,8 @@
     * CRD defined: (https://kubernetes.io/docs/tasks/access-kubernetes-api/custom-resources/custom-resource-definitions/)
     * DNS - annotaions for (https://github.com/kubernetes-incubator/external-dns)
     * Sidecar an agent into the ingress controller itself?
+4. Going Further
+    * be prepared to evolve your ingress controller
+    * Dynamic Network Policy (service mesh?)
+    * don't build it yourself if you don't have to
     * 
