@@ -15,6 +15,7 @@ taken quickly and badly. Spelling critisms not wlecome
 * [Operations after Deployment](OpsAfterDeployment.md)
 * [Authentication In A Cloud Native World](AuthInACloudNativeWorld.md)
 * [Implementing Bulletproof Access Control](ImplementingBulletproofAccessControl.pdf)
+* [Panel Discussion](PanelDiscussion.md)
 
 ## Docs
 * [Aqua PCI-DSS Compliance Guide](AquaPCI-DSSComplianceGuide.pdf)
@@ -25,7 +26,7 @@ taken quickly and badly. Spelling critisms not wlecome
 * Signing images
 * proxy auth for secrets management Secretless Broker cyberark.com
 * (https://www.google.ca/amp/s/gweb-cloudblog-publish.appspot.com/products/gcp/introducing-kaniko-build-container-images-in-kubernetes-and-google-container-builder-even-without-root-access/amp/)
-
+* cryo (fs or user namespace isolation)
 
 ## Actions
 Sekkrit :) 
