@@ -14,6 +14,7 @@ taken quickly and badly. Spelling critisms not wlecome
 * [Kubernetes Ingress Controller for Autoscaling Application Security](KubernetesIngressControllerforAutoscalingApplicationSecurity.md)
 * [Operations after Deployment](OpsAfterDeployment.md)
 * [Authentication In A Cloud Native World](AuthInACloudNativeWorld.md)
+* [Implementing Bulletproof Access Control](ImplementingBulletproofAccessControl.pdf)
 
 ## Docs
 * [Aqua PCI-DSS Compliance Guide](AquaPCI-DSSComplianceGuide.pdf)

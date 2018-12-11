@@ -1,4 +1,5 @@
 # Authentication In A Cloud Native World
+Evon Buelow, Redhat
 
 1. Auth
     * people aren't always trustorthy ;)
@@ -11,4 +12,5 @@
     * infa decoupling
 
 3. Security is still a function of Organizational structure and culture
-4. 
+
+openshift plug
