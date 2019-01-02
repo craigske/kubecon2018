@@ -13,22 +13,22 @@
 4. Breaches
     * 40% had one (usually more than once)
     * everything you have is being pen tested. By you or by others? Krebbs
-5. Typical Maturity for securiting new technologies
+5. Typical Maturity for securing new technologies
 
 6. Ten steps to security containers in Software Delivery Life Cycle
     * Secure Controls
       * user auth
       * network sef
-      * intrustion detection
+      * intrusion detection
     * Remove Known Vouln
       * scanning
       * harden os
     * Automate Processes
-      * automated ocnatiner scanning
+      * automated container scanning
       * signing containers
       * secrets management
     * Optimize Security
-      * ochestration consistency
+      * orchestration consistency
       * governance
       * advanced protection
       * trusted image program

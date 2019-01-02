@@ -27,7 +27,7 @@
       * app uses it's cert to com with secret providers
     * AKI key, pw, token
       * Secret 0 problem
-      * istion / service mesh
+      * istio / service mesh
 7. Enabling Auth
     * App auth
     * Retrieve creds via the vault API

@@ -7,7 +7,7 @@
 * API Server
 * Kubelet on each node
 * etcd
-*  Dashboard (in installed)
+* Dashboard (if installed)
 
 * kube-bench CIS checks
 

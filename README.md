@@ -29,4 +29,3 @@ taken quickly and badly. Spelling critisms not wlecome
 * cryo (fs or user namespace isolation)
 
 ## Actions
-Sekkrit :) 
